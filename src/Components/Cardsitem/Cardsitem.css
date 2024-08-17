@@ -1,0 +1,76 @@
+#supercard{
+    background-color: white; 
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    height: 180px;
+    box-shadow: 8px 8px 10px hsl(229, 6%, 66%);
+
+  
+}
+.card1{
+    grid-area: sup;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card2{
+grid-area: bild;
+display: flex;
+justify-content: center;
+    align-items: center;
+}
+
+.card3{
+grid-area: karma;
+display: flex;
+justify-content: center;
+    align-items: center;
+}
+
+.card4{
+grid-area: calc;
+display: flex;
+justify-content: center;
+    align-items: center;
+}
+
+.className1{
+   border-top: 5px solid hsl(180, 62%, 55%);
+  
+}
+.className2{
+    border-top: 5px solid hsl(0, 78%, 62%);
+
+    
+}
+.className3{
+    border-top: 5px solid hsl(34, 97%, 64%);
+   
+}
+.className4{
+    border-top: 5px solid hsl(212, 86%, 64%);
+    
+}
+
+
+#suphead{
+color: hsl(234, 12%, 34%);
+margin-bottom: 10px;
+font-size: 20px;
+
+
+}
+
+#supparg{
+    line-height: 30px;
+    color: hsl(229, 6%, 66%);
+    margin: 0;
+}
+
+#supimg{
+    float: right;
+    margin: 0;
+}
+
